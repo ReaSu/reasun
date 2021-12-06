@@ -1,4 +1,4 @@
-User-Agent: *
-Disallow: /
+Sitemap: https://www.reasu.at/blog/sitemapindex.xml
 
-Host: www.reasun.at
+User-Agent: *
+Host: www.reasu.at

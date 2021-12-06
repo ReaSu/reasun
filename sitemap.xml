@@ -6,39 +6,79 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://www.reasun.at/blog/</loc>
-  <lastmod>2021-11-21T21:51:00Z</lastmod>
+  <loc>https://www.reasu.at/blog/</loc>
+  <lastmod>2021-12-06T22:42:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.reasun.at/blog/2021/</loc>
+  <loc>https://www.reasu.at/blog/2021/</loc>
   <lastmod>2021-11-21T00:41:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.reasun.at/blog/archive.html</loc>
-  <lastmod>2021-11-21T21:38:00Z</lastmod>
+  <loc>https://www.reasu.at/blog/archive.html</loc>
+  <lastmod>2021-12-06T22:43:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.reasun.at/blog/categories/</loc>
+  <loc>https://www.reasu.at/blog/categories/</loc>
+  <lastmod>2021-12-06T21:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.reasu.at/blog/categories/cat_meta/</loc>
+  <lastmod>2021-11-23T19:01:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.reasu.at/blog/categories/happiness/</loc>
+  <lastmod>2021-12-06T21:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.reasu.at/blog/categories/pet-peeves/</loc>
+  <lastmod>2021-12-06T21:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.reasu.at/blog/categories/psychology/</loc>
+  <lastmod>2021-12-06T21:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.reasu.at/blog/categories/self-care/</loc>
   <lastmod>2021-11-21T00:41:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.reasun.at/blog/categories/self-care/</loc>
+  <loc>https://www.reasu.at/blog/categories/tag1/</loc>
+  <lastmod>2021-11-23T19:01:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.reasu.at/blog/categories/tag2/</loc>
+  <lastmod>2021-11-23T19:01:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.reasu.at/blog/categories/tag3/</loc>
+  <lastmod>2021-11-23T19:01:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.reasu.at/blog/categories/training-transfer-knowledge-it-coaching/</loc>
+  <lastmod>2021-12-06T21:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.reasu.at/blog/categories/winter/</loc>
   <lastmod>2021-11-21T00:41:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.reasun.at/blog/categories/winter/</loc>
+  <loc>https://www.reasu.at/blog/listings/</loc>
   <lastmod>2021-11-21T00:41:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.reasun.at/blog/listings/</loc>
-  <lastmod>2021-11-21T00:41:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.reasun.at/blog/pages/about/</loc>
+  <loc>https://www.reasu.at/blog/pages/about/</loc>
   <lastmod>2021-11-21T20:20:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.reasun.at/blog/posts/winter-traditions/</loc>
+  <loc>https://www.reasu.at/blog/posts/gratefulness/</loc>
+  <lastmod>2021-12-06T21:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.reasu.at/blog/posts/gratitude/</loc>
+  <lastmod>2021-12-06T22:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.reasu.at/blog/posts/winter-traditions/</loc>
   <lastmod>2021-11-21T21:51:00Z</lastmod>
  </url>
 </urlset>

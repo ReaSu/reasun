@@ -1,7 +1,7 @@
 .. title: Winter Traditions
 .. slug: winter-traditions
 .. date: 2021-11-20 21:39:20 UTC+01:00
-.. tags: winter,self-care
+.. tags: winter,self-care,psychology
 .. category: 
 .. link: 
 .. description: 
