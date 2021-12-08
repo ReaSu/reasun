@@ -32,6 +32,6 @@ Please, please, please dear content creators out there: You cannot just be grate
 
 Is it true, then? Are atheists condemned to a life of misery because they can't benefit from all the positive impacts the gratitude attitude has? Far from it. We can simply **appreciate** the intricacies of language, its nuance and detail that enables us to express our thoughts. 
 
-So: go forth and appreciate all the big and small things that make life worth living, that can be found in every day, and that will ultimately improve all areas of your life.
+So: go forth and appreciate all the big and small things that make life worth living, that can be found in every day, and that will ultimately improve all areas of your life. I, for one, appreciate all your comments. Today I'm especially especially curious about **your** pet peeves!
 
 .. [#] Find more info and links to studies here: `<https://positivepsychology.com/benefits-gratitude-research-questions/>`_
