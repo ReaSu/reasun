@@ -16,9 +16,9 @@
 
 Who hasn't heard of this: Gratitude is the key to happiness. But how? why? and for what? 
 
-.. END_TEASER
-
 There are lots of guides on how to practice gratitude: Gratitude journals, gratitude meditations, gratitude reflections, you name it.
+
+.. END_TEASER
 
 The benefits are all-encompassing: according to research it will improve your physical and mental health, your social life, your career and even your personality! From an increase in self-esteem and optimism to stronger and healthier relationships that lead to more support in crisis all the way to improved decision-making and reduced blood pressure, gratitude can boost it all. [#]_
 
