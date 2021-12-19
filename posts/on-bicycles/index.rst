@@ -1,7 +1,7 @@
 .. title: On Bicycles
 .. slug: on-bicycles
 .. date: 2021-12-19 17:54:31 UTC+01:00
-.. tags: freedom,bicycle,imagine 
+.. tags: freedom,bicycle,imagine,foss 
 .. category: 
 .. link: 
 .. description: 

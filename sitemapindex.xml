@@ -7,7 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://www.reasu.at/blog/categories/bicycle.xml</loc>
-  <lastmod>2021-12-19T22:03:00Z</lastmod>
+  <lastmod>2021-12-19T22:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.reasu.at/blog/categories/foss.xml</loc>
+  <lastmod>2021-12-19T22:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.reasu.at/blog/categories/freedom-bicycle-imagine.xml</loc>
@@ -15,7 +19,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.reasu.at/blog/categories/freedom.xml</loc>
-  <lastmod>2021-12-19T22:03:00Z</lastmod>
+  <lastmod>2021-12-19T22:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.reasu.at/blog/categories/happiness.xml</loc>
@@ -23,7 +27,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.reasu.at/blog/categories/imagine.xml</loc>
-  <lastmod>2021-12-19T22:03:00Z</lastmod>
+  <lastmod>2021-12-19T22:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.reasu.at/blog/categories/pet-peeves.xml</loc>
@@ -43,10 +47,10 @@
  </sitemap>
  <sitemap>
   <loc>https://www.reasu.at/blog/rss.xml</loc>
-  <lastmod>2021-12-19T22:03:00Z</lastmod>
+  <lastmod>2021-12-19T22:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.reasu.at/blog/sitemap.xml</loc>
-  <lastmod>2021-12-19T22:03:00Z</lastmod>
+  <lastmod>2021-12-19T22:08:00Z</lastmod>
  </sitemap>
 </sitemapindex>
