@@ -22,12 +22,24 @@
   <lastmod>2021-12-19T22:08:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.reasu.at/blog/categories/fun.xml</loc>
+  <lastmod>2022-01-22T14:58:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.reasu.at/blog/categories/happiness.xml</loc>
   <lastmod>2021-12-19T20:32:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.reasu.at/blog/categories/hgttg.xml</loc>
+  <lastmod>2022-01-22T14:58:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.reasu.at/blog/categories/imagine.xml</loc>
   <lastmod>2021-12-19T22:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.reasu.at/blog/categories/old-stuff.xml</loc>
+  <lastmod>2022-01-22T14:58:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.reasu.at/blog/categories/pet-peeves.xml</loc>
@@ -36,6 +48,10 @@
  <sitemap>
   <loc>https://www.reasu.at/blog/categories/psychology.xml</loc>
   <lastmod>2021-12-19T20:32:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.reasu.at/blog/categories/science.xml</loc>
+  <lastmod>2022-01-22T14:58:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.reasu.at/blog/categories/self-care.xml</loc>
@@ -47,10 +63,10 @@
  </sitemap>
  <sitemap>
   <loc>https://www.reasu.at/blog/rss.xml</loc>
-  <lastmod>2021-12-19T22:08:00Z</lastmod>
+  <lastmod>2022-01-22T14:58:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.reasu.at/blog/sitemap.xml</loc>
-  <lastmod>2021-12-19T22:08:00Z</lastmod>
+  <lastmod>2022-01-22T14:58:00Z</lastmod>
  </sitemap>
 </sitemapindex>
