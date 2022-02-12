@@ -12,7 +12,7 @@
   :align: right
   :alt: elephant calf walking next to grown elephant
 
-  Image by `Kisi Kataniemi <https://pixabay.com/users/kikatani-35407/>`_
+  Image by `Kirsi Kataniemi <https://pixabay.com/users/kikatani-35407/>`_
  
 I recently co-facilitated a refactoring workshop with `Code Cop Peter Kofler <http://code-cop.org>`_, where a participant asked an interesting question. I used to read people's blogs or listen to their talks, and they always started with "recently someone asked/mentioned/said this thing and so I thought I'd write something/give this talk about it." I used to think they just make this stuff up to have a better intro. And look at me now! 
 

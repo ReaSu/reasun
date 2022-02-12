@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://www.reasu.at/blog/categories/agile-coaching.xml</loc>
-  <lastmod>2022-02-12T15:39:00Z</lastmod>
+  <lastmod>2022-02-12T15:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.reasu.at/blog/categories/bicycle.xml</loc>
@@ -51,7 +51,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.reasu.at/blog/categories/programming.xml</loc>
-  <lastmod>2022-02-12T15:39:00Z</lastmod>
+  <lastmod>2022-02-12T15:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.reasu.at/blog/categories/psychology.xml</loc>
@@ -59,7 +59,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.reasu.at/blog/categories/refactoring.xml</loc>
-  <lastmod>2022-02-12T15:39:00Z</lastmod>
+  <lastmod>2022-02-12T15:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.reasu.at/blog/categories/science.xml</loc>
@@ -75,10 +75,10 @@
  </sitemap>
  <sitemap>
   <loc>https://www.reasu.at/blog/rss.xml</loc>
-  <lastmod>2022-02-12T15:39:00Z</lastmod>
+  <lastmod>2022-02-12T15:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.reasu.at/blog/sitemap.xml</loc>
-  <lastmod>2022-02-12T15:39:00Z</lastmod>
+  <lastmod>2022-02-12T15:44:00Z</lastmod>
  </sitemap>
 </sitemapindex>
