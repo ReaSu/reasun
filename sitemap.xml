@@ -19,11 +19,15 @@
  </url>
  <url>
   <loc>https://www.reasu.at/blog/archive.html</loc>
-  <lastmod>2022-01-22T14:26:00Z</lastmod>
+  <lastmod>2022-02-12T15:39:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/categories/</loc>
-  <lastmod>2022-01-22T14:58:00Z</lastmod>
+  <lastmod>2022-02-12T15:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.reasu.at/blog/categories/agile-coaching/</loc>
+  <lastmod>2022-02-12T15:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/categories/bicycle/</loc>
@@ -66,8 +70,16 @@
   <lastmod>2021-12-08T20:01:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.reasu.at/blog/categories/programming/</loc>
+  <lastmod>2022-02-12T15:03:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.reasu.at/blog/categories/psychology/</loc>
   <lastmod>2021-12-08T20:01:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.reasu.at/blog/categories/refactoring/</loc>
+  <lastmod>2022-02-12T15:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/categories/science/</loc>
@@ -88,6 +100,10 @@
  <url>
   <loc>https://www.reasu.at/blog/pages/about/</loc>
   <lastmod>2021-12-08T20:01:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.reasu.at/blog/posts/baby-steps-challenge/</loc>
+  <lastmod>2021-12-26T02:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/posts/bikes-and-books-and-other-things/</loc>
