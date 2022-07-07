@@ -30,6 +30,20 @@ figcaption a {
   border-bottom: 0 !important;
 }
 
+.smaller {
+  font-size: 75%;
+  line-height: normal;
+  margin-top: 5em;
+}
+.logos p a img {
+  margin: 1em;
+}
+.logos p a:not(.button) {
+  border-bottom: none;
+}
+.content .smaller p {
+  margin-bottom: 0;
+}
 .align-right {
   float: right;
 }
@@ -47,4 +61,10 @@ figcaption a {
 .nav-item a,
 a.nav-item {
   color: #747a83;
+}
+
+h2,
+.content h2 {
+  margin-top: 30px;
+  margin-bottom: 15px;
 }

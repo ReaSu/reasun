@@ -19,19 +19,15 @@
  </url>
  <url>
   <loc>https://www.reasu.at/blog/archive.html</loc>
-  <lastmod>2022-06-29T22:27:00Z</lastmod>
+  <lastmod>2022-07-07T17:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/categories/</loc>
-  <lastmod>2022-06-29T22:30:00Z</lastmod>
+  <lastmod>2022-06-29T22:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/categories/agile-coaching/</loc>
   <lastmod>2022-02-12T15:03:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.reasu.at/blog/categories/agile/</loc>
-  <lastmod>2022-06-29T22:25:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/categories/analysis/</loc>
@@ -42,16 +38,8 @@
   <lastmod>2021-12-19T20:34:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.reasu.at/blog/categories/estimate/</loc>
-  <lastmod>2022-06-29T22:25:00Z</lastmod>
- </url>
- <url>
   <loc>https://www.reasu.at/blog/categories/foss/</loc>
   <lastmod>2021-12-19T22:08:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.reasu.at/blog/categories/freedom-bicycle-imagine/</loc>
-  <lastmod>2021-12-19T20:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/categories/freedom/</loc>
@@ -72,10 +60,6 @@
  <url>
   <loc>https://www.reasu.at/blog/categories/imagine/</loc>
   <lastmod>2021-12-19T20:34:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.reasu.at/blog/categories/memory-lane/</loc>
-  <lastmod>2022-06-29T22:25:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/categories/meta/</loc>
@@ -110,10 +94,6 @@
   <lastmod>2021-12-08T16:40:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.reasu.at/blog/categories/software/</loc>
-  <lastmod>2022-06-29T22:25:00Z</lastmod>
- </url>
- <url>
   <loc>https://www.reasu.at/blog/categories/winter/</loc>
   <lastmod>2021-12-08T16:40:00Z</lastmod>
  </url>
@@ -132,6 +112,10 @@
  <url>
   <loc>https://www.reasu.at/blog/posts/baby-steps-challenge/</loc>
   <lastmod>2021-12-26T02:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.reasu.at/blog/posts/cause-and-effect/</loc>
+  <lastmod>2022-07-07T17:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/posts/hitchhikers-guide-to-the-galaxy-and-science/</loc>
