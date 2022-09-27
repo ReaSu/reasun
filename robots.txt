@@ -1,0 +1,4 @@
+Sitemap: https://www.reasu.at/blog/sitemapindex.xml
+
+User-Agent: *
+Host: www.reasu.at

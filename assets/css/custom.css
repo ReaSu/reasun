@@ -1,0 +1,59 @@
+body {
+  font-family: "Liberation Sans", Helvetica, Arial, sans;
+}
+
+#footer {
+  text-align: center;
+}
+
+#nav-heading {
+  font-family: "Liberation Mono", "Courier New", monospace;
+  font-weight: bold;
+}
+
+figure {
+  border: 1px solid #42464c;
+  padding: 4px;
+  margin: 1rem;
+  margin-top: 0;
+}
+
+figcaption p {
+  line-height: 1;
+  font-size: small;
+  text-align: right !important;
+}
+
+figcaption a {
+  color: #42464c;
+  font-style: italic;
+  border-bottom: 0 !important;
+}
+
+.align-right {
+  float: right;
+}
+.align-left {
+  float: left;
+}
+
+.nav-right {
+  max-width: 30%;
+}
+.nav-left {
+  max-width: 70%;
+}
+
+.nav-item a,
+a.nav-item {
+  color: #747a83;
+}
+
+.content h2 {
+  margin-top: 20px;
+  margin-bottom: 5px !important;
+}
+/*
+.title {
+  padding-top: 10px;
+}*/

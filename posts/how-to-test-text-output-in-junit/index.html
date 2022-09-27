@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>How To Test Text Output In JUnit | Outside the comfort zone</title>
+<link href="../../assets/css/all.css" rel="stylesheet" type="text/css">
+<meta name="theme-color" content="#ff0088">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" hreflang="en" href="../../rss.xml">
+<link rel="canonical" href="https://www.reasu.at/blog/posts/how-to-test-text-output-in-junit/">
+<meta name="author" content="Rea Su">
+<meta name="robots" content="noindex">
+<meta property="og:site_name" content="Outside the comfort zone">
+<meta property="og:title" content="How To Test Text Output In JUnit">
+<meta property="og:url" content="https://www.reasu.at/blog/posts/how-to-test-text-output-in-junit/">
+<meta property="og:description" content="I had this plan of programming Langton's Ant. It's a two-dimensional cellular automaton: a set of rules that are apllied in a two dimensional plane. Imagine the plane to be covered with square balck a">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2022-06-08T18:34:43+02:00">
+<script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script><link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
+<meta name="reasun-blog">
+</head>
+<body>
+    <!-- FIXME: reenable <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a> -->
+    <section class="section"><div class="container">
+            
+    <nav id="nav-main" class="nav"><div id="nav-name" class="nav-left">
+        
+<a id="nav-anchor" class="nav-item" href="../../" title="Outside the comfort zone" rel="home">
+    <h1 id="nav-heading" class="title is-3">
+        <span id="blog-title">Outside the comfort zone</span>
+    </h1>
+</a>
+
+      </div>
+      <div class="nav-right">
+        <nav id="nav-items" class="nav-item level is-mobile"><a class="level-item" href="../../archive.html">Archive</a>
+            <a class="level-item" href="../../categories/">Tags</a>
+            <a class="level-item" href="../../rss.xml">RSS feed</a>
+            <a class="level-item" href="../../pages/about">About</a>
+
+    
+
+    
+    
+    </nav>
+</div>
+    </nav>
+</div>
+    </section><section class="section"><div class="container">
+            
+    <h2 class="subtitle is-6 date">2022-06-08 18:34</h2>
+    <h1 class="title"><a href=".">How To Test Text Output In JUnit</a></h1>
+    <div class="content">
+        <p>I had this plan of programming Langton's Ant. It's a two-dimensional cellular automaton: a set of rules that are apllied in a two dimensional plane. Imagine the plane to be covered with square balck and white tiles. We place an ant on an arbitrary tile, and have it walk around according to the following rules: When the ant is on a white tile, it will turn right, and move to the adjacent tile. When it is on a black tile, the ant will instead turn left and move to the next tile. Whenever the ant leaves a tile, that tile will switch colours. Langton's Ant, as all cellular automata, is interesting because a small set of simple rules leads to complex behaviour.</p>
+<p>I wanted to program Langton's Ant for several reasons: I wanted to have something easy to try out programming techniques. I wanted to have quick success after some rather frustrating experiences recently. And finally I wanted to use the result in fibre crafts.</p>
+<p>Have I tried new techniques and learned many things? Yes. I got familiar with Eclipse, my new IDE of choice. I tried assertJ instead of the standard assertions that come with JUnit5. And I learned that simple things are not necessarily easy.</p>
+<p>I expected this to be an easy practice piece, a little étude, if you will. Reader, I have failed miserably. There are so many decisions to make! How do I model that plane - does it emerge as the ant moves around, or do I start with a fixed size? If I do the latter - what happens when the ant moves off the borders? Will the program stop, or does the ant re-appear on the opposite side of the grid? Do I need a plane at all, or will a list of visited tiles do, each with its position in relation to the other tiles and the current colour? Where should the behaviour be, with the ant or with the tile?</p>
+    </div>
+    
+<div id="comment-section"></div>
+
+<script>
+initComments({
+  node: document.getElementById("comment-section"),
+  defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+  serverName: "cactus.chat",
+  siteName: "reasun-blog",
+  commentSectionId: "postshow-to-test-text-output-in-junit"
+});
+</script><footer id="footer"><p></p>
+<hr>Contents © 2022 <a href="mailto:reasu@pm.me">Rea Su</a><br><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+<img alt="Creative Commons License BY-SA" style="border-width:0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a>
+            
+        </footer>
+</div>
+    </section><script src="../../assets/js/all.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>
