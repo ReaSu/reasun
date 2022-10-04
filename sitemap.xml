@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.reasu.at/blog/</loc>
-  <lastmod>2022-09-27T19:05:00Z</lastmod>
+  <lastmod>2022-09-27T20:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/2021/</loc>
@@ -15,15 +15,15 @@
  </url>
  <url>
   <loc>https://www.reasu.at/blog/2022/</loc>
-  <lastmod>2022-09-27T18:48:00Z</lastmod>
+  <lastmod>2022-09-27T20:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/archive.html</loc>
-  <lastmod>2022-09-27T19:19:00Z</lastmod>
+  <lastmod>2022-10-04T16:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/categories/</loc>
-  <lastmod>2022-09-27T19:19:00Z</lastmod>
+  <lastmod>2022-10-04T16:25:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/categories/agile-coaching/</loc>
@@ -39,7 +39,7 @@
  </url>
  <url>
   <loc>https://www.reasu.at/blog/categories/crafting/</loc>
-  <lastmod>2022-09-27T19:04:00Z</lastmod>
+  <lastmod>2022-09-27T20:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/categories/foss/</loc>
@@ -51,7 +51,7 @@
  </url>
  <url>
   <loc>https://www.reasu.at/blog/categories/fun/</loc>
-  <lastmod>2022-09-27T18:48:00Z</lastmod>
+  <lastmod>2022-09-27T20:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/categories/happiness/</loc>
@@ -64,6 +64,14 @@
  <url>
   <loc>https://www.reasu.at/blog/categories/imagine/</loc>
   <lastmod>2022-09-27T18:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.reasu.at/blog/categories/langton-programming/</loc>
+  <lastmod>2022-10-04T16:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.reasu.at/blog/categories/langton/</loc>
+  <lastmod>2022-10-04T16:25:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/categories/meta/</loc>
@@ -79,7 +87,7 @@
  </url>
  <url>
   <loc>https://www.reasu.at/blog/categories/programming/</loc>
-  <lastmod>2022-09-27T18:48:00Z</lastmod>
+  <lastmod>2022-09-27T20:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/categories/psychology/</loc>
@@ -95,7 +103,7 @@
  </url>
  <url>
   <loc>https://www.reasu.at/blog/categories/self-care/</loc>
-  <lastmod>2022-09-27T18:48:00Z</lastmod>
+  <lastmod>2022-09-27T20:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/categories/winter/</loc>
@@ -111,38 +119,42 @@
  </url>
  <url>
   <loc>https://www.reasu.at/blog/pages/about/</loc>
-  <lastmod>2022-09-27T18:48:00Z</lastmod>
+  <lastmod>2022-09-27T20:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.reasu.at/blog/posts/ant-in-c-minor/</loc>
+  <lastmod>2022-10-04T16:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/posts/baby-steps-challenge/</loc>
-  <lastmod>2022-09-27T18:48:00Z</lastmod>
+  <lastmod>2022-09-27T20:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/posts/cause-and-effect/</loc>
-  <lastmod>2022-09-27T19:19:00Z</lastmod>
+  <lastmod>2022-09-27T20:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/posts/hitchhikers-guide-to-the-galaxy-and-science/</loc>
-  <lastmod>2022-09-27T18:48:00Z</lastmod>
+  <lastmod>2022-09-27T20:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/posts/introducing-project-langton/</loc>
-  <lastmod>2022-09-27T18:48:00Z</lastmod>
+  <lastmod>2022-09-27T20:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/posts/on-bicycles/</loc>
-  <lastmod>2022-09-27T18:48:00Z</lastmod>
+  <lastmod>2022-09-27T20:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/posts/the-problem-with-gratitude/</loc>
-  <lastmod>2022-09-27T18:48:00Z</lastmod>
+  <lastmod>2022-09-27T20:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/posts/winter-traditions/</loc>
-  <lastmod>2022-09-27T18:48:00Z</lastmod>
+  <lastmod>2022-09-27T20:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/posts/writing-is-hard/</loc>
-  <lastmod>2022-09-27T19:19:00Z</lastmod>
+  <lastmod>2022-09-27T20:08:00Z</lastmod>
  </url>
 </urlset>
