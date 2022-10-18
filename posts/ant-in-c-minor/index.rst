@@ -48,6 +48,7 @@ The lesson I learned (again) is this: Save time by taking the time to think abou
 Wrap-up
 -------
 I'm deliberately limiting myself to three items here:
+
 Room for improvement
 ====================
 

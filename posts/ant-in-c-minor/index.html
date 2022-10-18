@@ -77,15 +77,13 @@ Do I think it is a masterpiece of engineering? Not at all. (I'd call it C major 
 <p>Instead of command line arguments, I decided to ask for user input at the start of the program. One, because it's much more user friendly, and two through ten, because I found it easier to test and write. If I ever wanted to give users more ways to customise the output, I'd know exactly what code to change.</p>
 <p>The lesson I learned (again) is this: Save time by taking the time to think about the (user) interface before you write code. This is especially true with outside-in testing, but doesn't hurt either way.</p>
 </section><section id="wrap-up"><h2>Wrap-up</h2>
-<p>I'm deliberately limiting myself to three items here:
-Room for improvement
-====================</p>
+<p>I'm deliberately limiting myself to three items here:</p>
+<section id="room-for-improvement"><h3>Room for improvement</h3>
 <ul class="simple">
 <li><p>There is no error handling whatsoever. Input parameters are not validated, nor is there anything to prevent the ant from falling off the edge of its world (resulting in a segmentation fault).</p></li>
 <li><p>I made some bad design choices: e.g. why should the grid know which direction the ant is facing? That's entirely unnecessary, and forces me to use structs where a simple type would be enough. I think. I believe I was influenced by a version I did in Java a while back, where I ended up without an actual ant object.</p></li>
 <li><p>My functions and procedures could be shorter, and putting them in (a) header file(s) wouldn't hurt readability either.</p></li>
-</ul>
-<section id="things-i-m-happy-with"><h3>Things I'm happy with</h3>
+</ul></section><section id="things-i-m-happy-with"><h3>Things I'm happy with</h3>
 <ul class="simple">
 <li><p>I'm glad I started with C. It's good to know that the memory wasn't lost, merely hidden under a pile of other stuff.</p></li>
 <li><p>I'm surprised how much I learnt apart from language specifics, about how I approach this problem.</p></li>
