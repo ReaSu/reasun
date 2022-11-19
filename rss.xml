@@ -3,7 +3,14 @@
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-SA"
 style="border-width:0;"
-src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Tue, 18 Oct 2022 11:52:08 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Ant in C Minor</title><link>https://www.reasu.at/blog/posts/ant-in-c-minor/</link><dc:creator>Rea Su</dc:creator><description>&lt;div&gt;&lt;figure class="align-right" style="width: 50%"&gt;
+src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sat, 19 Nov 2022 00:34:44 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Coding is like Fencing*</title><link>https://www.reasu.at/blog/posts/coding-is-like-fencing/</link><dc:creator>Rea Su</dc:creator><description>&lt;div&gt;&lt;figure class="align-left" style="width: 50%"&gt;
+&lt;img alt="Two people in white fencing gear against a dark backdrop practicing foil fencing." src="https://www.reasu.at/blog/images/foil-fencing.jpg"&gt;
+&lt;figcaption&gt;
+&lt;p&gt;Image by &lt;a class="reference external" href="https://www.pexels.com/photo/people-in-playing-fencing-6832203/"&gt;Cottonbro Studio&lt;/a&gt;&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;I had the pleasure of watching fencing practice a couple days ago. It was only three people - the coach, and two participants. One of them started only recently, the other one has some years of practice under his belt. While I was listening to the coach, I couldn't help but think about coding exercises. Her words could have been used almost verbatim to introduce a coding dojo. Is coding like fencing, then? There is quite an overlap, yes. But I think there's still room for improvement. Let me walk you through what I witnessed that evening, and where I think coding practice falls short.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.reasu.at/blog/posts/coding-is-like-fencing/"&gt;Read more…&lt;/a&gt; (3 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>https://www.reasu.at/blog/posts/coding-is-like-fencing/</guid><pubDate>Thu, 17 Nov 2022 19:48:42 GMT</pubDate></item><item><title>Ant in C Minor</title><link>https://www.reasu.at/blog/posts/ant-in-c-minor/</link><dc:creator>Rea Su</dc:creator><description>&lt;div&gt;&lt;figure class="align-right" style="width: 50%"&gt;
 &lt;img alt="Musical notation of middle C in treble clef." src="https://www.reasu.at/blog/images/ant-in-c-minor.png"&gt;
 &lt;/figure&gt;
 &lt;p&gt;I managed to get an ant working in C. You can view the source code here: &lt;a class="reference external" href="https://github.com/ReaSu/Auntie_Ant/tree/c-with-smoke"&gt;Auntie Ant&lt;/a&gt;.&lt;/p&gt;
