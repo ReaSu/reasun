@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.reasu.at/blog/</loc>
-  <lastmod>2022-09-27T20:08:00Z</lastmod>
+  <lastmod>2022-12-06T19:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/2021/</loc>
@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>https://www.reasu.at/blog/archive.html</loc>
-  <lastmod>2022-11-18T22:08:00Z</lastmod>
+  <lastmod>2022-12-06T19:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/categories/</loc>
@@ -118,6 +118,10 @@
   <lastmod>2022-09-27T18:45:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.reasu.at/blog/page/1/</loc>
+  <lastmod>2022-12-06T19:00:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.reasu.at/blog/pages/about/</loc>
   <lastmod>2022-09-27T20:08:00Z</lastmod>
  </url>
@@ -138,6 +142,10 @@
   <lastmod>2022-11-18T22:08:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.reasu.at/blog/posts/coding-is-not-like-fencing/</loc>
+  <lastmod>2022-12-06T19:00:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.reasu.at/blog/posts/hitchhikers-guide-to-the-galaxy-and-science/</loc>
   <lastmod>2022-09-27T20:08:00Z</lastmod>
  </url>
@@ -147,7 +155,7 @@
  </url>
  <url>
   <loc>https://www.reasu.at/blog/posts/on-bicycles/</loc>
-  <lastmod>2022-09-27T20:08:00Z</lastmod>
+  <lastmod>2022-12-01T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.reasu.at/blog/posts/the-problem-with-gratitude/</loc>

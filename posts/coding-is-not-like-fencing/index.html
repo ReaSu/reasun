@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>Coding is not like Fencing | Outside the comfort zone</title>
+<link href="../../assets/css/all.css" rel="stylesheet" type="text/css">
+<meta name="theme-color" content="#ff0088">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" hreflang="en" href="../../rss.xml">
+<link rel="canonical" href="https://www.reasu.at/blog/posts/coding-is-not-like-fencing/">
+<meta name="author" content="Rea Su">
+<link rel="prev" href="../coding-is-like-fencing/" title="Coding is like Fencing*" type="text/html">
+<meta property="og:site_name" content="Outside the comfort zone">
+<meta property="og:title" content="Coding is not like Fencing">
+<meta property="og:url" content="https://www.reasu.at/blog/posts/coding-is-not-like-fencing/">
+<meta property="og:description" content='Image from Solothurner Fechtbuch
+
+
+In the last post I wrote about how very tangible the results of the "artificial" exercise were at the fencing practice I obsered. Witnessing this made reflect on the'>
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2022-12-06T17:55:01+01:00">
+<script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script><link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
+<meta name="reasun-blog">
+</head>
+<body>
+    <!-- FIXME: reenable <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a> -->
+    <section class="section"><div class="container">
+            
+    <nav id="nav-main" class="nav"><div id="nav-name" class="nav-left">
+        
+<a id="nav-anchor" class="nav-item" href="../../" title="Outside the comfort zone" rel="home">
+    <h1 id="nav-heading" class="title is-3">
+        <span id="blog-title">Outside the comfort zone</span>
+    </h1>
+</a>
+
+      </div>
+      <div class="nav-right">
+        <nav id="nav-items" class="nav-item level is-mobile"><a class="level-item" href="../../archive.html">Archive</a>
+            <a class="level-item" href="../../categories/">Tags</a>
+            <a class="level-item" href="../../rss.xml">RSS feed</a>
+            <a class="level-item" href="../../pages/about">About</a>
+
+    
+
+    
+    
+    </nav>
+</div>
+    </nav>
+</div>
+    </section><section class="section"><div class="container">
+            
+    <h2 class="subtitle is-6 date">2022-12-06 17:55</h2>
+    <h1 class="title"><a href=".">Coding is not like Fencing</a></h1>
+    <div class="content">
+        <figure class="align-right" style="width: 50%"><img alt="two 16th century drawings of fencing" src="../../images/solothurner-fechtbuch.jpg"><figcaption><p>Image from <a class="reference external" href="https://commons.wikimedia.org/wiki/File:S_554_021.tif">Solothurner Fechtbuch</a></p>
+</figcaption></figure><p>In the <a class="reference external" href="../coding-is-like-fencing/">last post</a> I wrote about how very tangible the results of the "artificial" exercise were at the fencing practice I obsered. Witnessing this made reflect on the deliberate practice we as software crafters do. I want to get to the bottom of this, and tease out the differences between the two kinds of practice.</p>
+<!-- END_TEASER -->
+<p>In the software crafting community we stress the importance of deliberate practice. The idea behind it is that writing software is a skill like playing a musical instrument or a sport. Deliberate practice is bread and butter for professional athletes and musicians, while a performance is the cherry on top. Software development is like constant performance, and is lacking the foundation of deliberate practice. Fencers pracitce specific movements in isolation before using them in bouts. Musicians practice specific runs before incorporating them in a piece. In deliberate practice you slow down, and focus all your attention on a given aspect of your skill. By slowing down you take the time to do it very exactly, as near perfect as possible. You commit a certain movement to muscle memory. Once you can perform it with confidence, you can add other elements, like speed, or more context. We want to do that with parts of writing software too. We practice to talk about code and to communicate our intentions when working in a pair or ensemble. We practice writing tests first, code later. We practice refactoring code that follows a specific anti-pattern or smell. The pieces of code or problem descriptions we practice on are called <em>Katas</em>. When we come together to practice as a group, we call that a <em>dojo</em>. Someone really liked the martial arts simile. When a dojo lasts for a whole day or more, we call it a <em>code retreat</em>. So much about definitions and parallels between music, sports, and coding.</p>
+<p>The fencing practice can be broken down and generalised like this:
+- there's a clearly defined problem within a larger context and this problem can be practiced in isolation
+- many repetitions are possible within a short timeframe
+- feedback is available after each repetition
+- improvement can be expected within the given timeframe
+- the problem can then be placed back into its usual context, and the benefit of the practice is immediately noticeable.</p>
+<p>How does this compare to the kind of deliberate practice we do in dojos or at retreats? Many Katas are so general, they are a canvas to practice whatever you need or want to. Some - especially refactoring katas - target a very specific problem, so let's stick with them for the moment. They often contain several instances of the same code smell, so the refactoring can be repeated more than once when solving the kata once. Solving the same kata again adds more repetitions. The timeframe is often longer than it was in the fencing lesson I observed, but it's still possible to do a few repetitions within an hour. So far, there are clear parallels.</p>
+<p>Feedback, I think, is where we start to deviate from the above. There is feedback from the tests, of course - they show if the refactoring was successful, or if nasty bugs have crept in. Provided that they are good tests. When writing tests is part of the exercise, then they are only as good as you made them. Let's assume that the tests are good, because we're practicing refactoring, not writing tests. These tests give feedback about the outcome, but they don't say much about the process. Isn't it the process we want to practice? Did you really get to your goal in a way that will work consistently? Was the success down to luck, or to your abilities?</p>
+<p>In dojos or at retreats, pairing partners can be a valuable source of feedback. Not all pairs are created equal, though, and sometimes both partners are equally lost, which renders improvements much more difficult.</p>
+<p>The biggest difference, however, is the last part: Usually, when we practice, we don't get the chance to immediately try out the new skills in their natural habitat. It can happen, especially in trainings where practice sessions are immediately followed by work on production code. However, this isn't usually the case in dojos or at code retreats. We can't transfer the new skills to a non-artificial context, and may even loose them before we have a chance to use them. No retrospective - as important as they are - can replace this.</p>
+<p>There's the idea that taking the time to practice with katas is like taking the time to thoroughly sharpen your axe before you cut down a tree. It seems to me it's more like sharpening a random set of cutting implements. Chances are that at one point, sooner or later, most of them will come in handy. And when the time of the fillet knive has come we can confidently pull it out of our toolbag - if we remember that we have it. And if we can find it. And if it's not blunted again by time.</p>
+<p>Doing katas is not like the fencing practice, it's half of fencing practice at most. Do we need the other half? What would that look like? And is it true that it's up to each participant what and how much they learn at a dojo/retreat?</p>
+<p>I think best while writing, and a lot of thinking has been going on while writing this. Chances are there will be a part three, dealing with the questions above.</p>
+    </div>
+    
+<div id="comment-section"></div>
+
+<script>
+initComments({
+  node: document.getElementById("comment-section"),
+  defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+  serverName: "cactus.chat",
+  siteName: "reasun-blog",
+  commentSectionId: "postscoding-is-not-like-fencing"
+});
+</script><footer id="footer"><p></p>
+<hr>Contents © 2022 <a href="mailto:reasu@pm.me">Rea Su</a><br><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+<img alt="Creative Commons License BY-SA" style="border-width:0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a>
+            
+        </footer>
+</div>
+    </section><script src="../../assets/js/all.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>
